@@ -1,12 +1,12 @@
-name: ecole
+name: New Theme
 type: theme
-description: "Theme Drupal 8"
+description: "New Theme Drupal 8"
 package: Core
 core: '8.x'
 
 libraries:
-  - 'theme/global-css'
-  - 'theme/global-js'
+  - 'new_theme/global-css'
+  - 'new_theme/global-js'
 
 
 regions:
