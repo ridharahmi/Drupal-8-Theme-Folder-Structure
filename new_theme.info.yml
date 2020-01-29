@@ -14,7 +14,6 @@ regions:
   main_menu: 'Main Menu'
   breadcrumb: 'Breadcrumbs'
   status_message: 'Status Message'
-  banner: 'Banner'
   content_top: 'Content top'
   content: 'Content'
   content_bottom: 'Content bottom'
